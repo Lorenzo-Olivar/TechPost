@@ -16,7 +16,7 @@ I am proud of myself of being able to code this project on such short notice con
 
 ## Installation
 
-1. Click on the URL to the application: [TechPost](https://calm-garden-78554-a0938358e7da.herokuapp.com)
+1. Click on the URL to the application: [TechPost]([https://calm-garden-78554-a0938358e7da.herokuapp.com](https://tech-post-c66eb09c25fc.herokuapp.com/))
 
 ## Usage
 
