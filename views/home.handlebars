@@ -1,0 +1,13 @@
+
+{{#each postData}}
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title clickable"  style="cursor: pointer;">{{title}}</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">Posted on {{format_date createdAt}}</h6>
+        <p class="card-text">{{content}}</p>
+    </div>
+</div>
+<div class="commentSection">
+
+</div>
+{{/each}}
